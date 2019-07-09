@@ -1,0 +1,7 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\bin\Debug\Application_2.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\bin\Debug\Application_2.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\bin\Debug\Application_2.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\obj\Debug\Application_2.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\obj\Debug\Application_2.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\obj\Debug\Application_2.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Application_2\obj\Debug\Application_2.pdb

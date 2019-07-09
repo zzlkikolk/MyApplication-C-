@@ -1,0 +1,7 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\bin\Debug\99CF.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\bin\Debug\99CF.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\bin\Debug\99CF.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\obj\Debug\99CF.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\obj\Debug\99CF.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\obj\Debug\99CF.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\99CF\obj\Debug\99CF.pdb

@@ -1,0 +1,8 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\bin\Debug\ReadWord.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\bin\Debug\ReadWord.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\bin\Debug\ReadWord.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\obj\Debug\ReadWord.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\obj\Debug\ReadWord.csproj.ResolveComReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\obj\Debug\ReadWord.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\obj\Debug\ReadWord.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\ReadWord\obj\Debug\ReadWord.pdb

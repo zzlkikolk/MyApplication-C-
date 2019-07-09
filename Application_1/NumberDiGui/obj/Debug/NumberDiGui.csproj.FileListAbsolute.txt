@@ -1,0 +1,7 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\bin\Debug\NumberDiGui.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\bin\Debug\NumberDiGui.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\bin\Debug\NumberDiGui.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\obj\Debug\NumberDiGui.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\obj\Debug\NumberDiGui.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\obj\Debug\NumberDiGui.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\NumberDiGui\obj\Debug\NumberDiGui.pdb

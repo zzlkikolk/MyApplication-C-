@@ -1,0 +1,7 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\bin\Debug\Database.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\bin\Debug\Database.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\bin\Debug\Database.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\obj\Debug\Database.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\Database\obj\Debug\Database.pdb

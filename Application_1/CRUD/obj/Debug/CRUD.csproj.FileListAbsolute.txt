@@ -1,0 +1,7 @@
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\bin\Debug\CRUD.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\bin\Debug\CRUD.pdb
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\obj\Debug\CRUD.exe
+C:\Users\智霸霸\Desktop\C#\Application\Application_1\CRUD\obj\Debug\CRUD.pdb
